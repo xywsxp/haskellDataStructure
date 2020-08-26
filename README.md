@@ -1,2 +1,2 @@
 # haskellDataStructure
-Using haskell to implement some datastructures
+Using haskell to implement some data structures
